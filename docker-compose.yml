@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  movie-app:
+    build: .
+    container_name: movie-mood-app
+    ports:
+      - "8501:8501"
+    restart: always

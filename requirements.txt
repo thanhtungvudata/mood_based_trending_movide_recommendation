@@ -1,0 +1,14 @@
+requests
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+transformers
+huggingface_hub
+fastapi
+uvicorn
+tmdbv3api
+python-dotenv
+tqdm
+streamlit
